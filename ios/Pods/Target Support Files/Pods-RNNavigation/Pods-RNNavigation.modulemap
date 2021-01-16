@@ -1,0 +1,6 @@
+module Pods_RNNavigation {
+  umbrella header "Pods-RNNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}
